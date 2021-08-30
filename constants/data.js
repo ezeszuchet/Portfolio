@@ -22,28 +22,28 @@ const userData = {
       company: "PSH",
       year: "Mar 2021 - Current",
       companyLink: "https://wearepsh.com/",
-      desc: "Improve and maintenance a marketing website project with React.js, graphql",
+      desc: "Improve and maintenance a marketing website project with React.js, graphql"
     },
     {
       title: "Wordpress developer",
       company: "Infinidad",
       year: "Jul 2020 - Dec 2020",
       companyLink: "https://infinidad.com.ar/",
-      desc: "Create, improve and maintenance different types of projects with wordpress",
+      desc: "Create, improve and maintenance different types of projects with wordpress"
     },
     {
       title: "Full stack developer",
       company: "Next Commerce",
       year: "Feb 2019 - Mar 2020",
       companyLink: "https://www.nextcommerce.com.ar/",
-      desc: "Create, improve and maintenance ecommerce stores whith html, css, jquery, c# .net, MySql",
+      desc: "Create, improve and maintenance ecommerce stores whith html, css, jquery, c# .net, MySql"
     },
     {
       title: "High School",
       company: "Ort Argentina",
       year: "2018",
       companyLink: "https://upes.co.in",
-      desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
+      desc: "Learn from the bases of programming to develop applications connecting with databases. c++, c#, sql"
     },
   ],
   projects: [
@@ -74,7 +74,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/1uq9L_JYw7umLdrgUQM1rP55RP5u0JShT/view?usp=sharing",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/ezequiel-szuchet/",
     github: "https://github.com/ezeszuchet",
