@@ -37,14 +37,32 @@ const userData = {
       year: "Feb 2019 - Mar 2020",
       companyLink: "https://www.nextcommerce.com.ar/",
       desc: "Create, improve and maintain ecommerce stores whith html, css, jquery, c# .net, MySql",
+    }
+  ],
+  education: [
+    {
+      title: "Full-stack engineer career path",
+      company: "Code Cademy",
+      year: "Abr 2021 - Jun 2021",
+      desc: "Reactjs, Nodejs, sql, TDD",
+    },
+    {
+      title: "Big Data course",
+      company: "Dblandit",
+      year: "Jan 2020 - Mar 2020",
+      desc: "Nodejs, Mongodb, Bash",
     },
     {
       title: "High School",
       company: "Ort Argentina",
-      year: "2018",
-      companyLink: "https://upes.co.in",
+      year: "2014-2018",
       desc: "Learn from the bases of programming to develop applications connecting with databases. c++, c#, sql"
     },
+    {
+      title: "Leaders course",
+      company: "O.H.A Macabi, Buenos Aires",
+      year: "Dec 2016 - Dec 2018"
+    }
   ],
   projects: [
     {
